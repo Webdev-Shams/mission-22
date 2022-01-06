@@ -164,3 +164,36 @@ h3 {
   border-radius: 20px;
   margin-left: 25%;
 }
+
+.sec05 {
+  font-weight: 400;
+  margin: 150px 0;
+}
+.headIns h2 {
+  color: white;
+  text-align: center;
+}
+
+.persons {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.shovon,
+.jhankar,
+.sayma {
+  width: 25%;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.jhankar {
+  margin: 0 -7% 0 -7%;
+}
+
+#insPer {
+  width: 150px;
+  border-radius: 50%;
+}
