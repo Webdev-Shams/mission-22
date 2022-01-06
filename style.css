@@ -20,6 +20,9 @@ img {
   display: flex;
   align-items: center;
   justify-content: center;
+  background-image: url(images/exp-bg.png);
+  background-repeat: no-repeat;
+  background-position-y: bottom;
 }
 
 .sec01Ldiv,
@@ -75,6 +78,9 @@ a {
 }
 
 .sec02 {
+  background-image: url(images/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position-x: right;
   margin-top: 50px;
   margin-bottom: 200px;
 }
@@ -169,6 +175,8 @@ h3 {
 .sec05 {
   font-weight: 400;
   margin: 150px 0;
+  background-image: url(images/exp-bg.png);
+  background-repeat: no-repeat;
 }
 .headIns h2 {
   color: white;
