@@ -175,8 +175,9 @@ h3 {
 .sec05 {
   font-weight: 400;
   margin: 150px 0;
-  background-image: url(images/exp-bg.png);
+  background-image: url(images/exp-bg2.png);
   background-repeat: no-repeat;
+  background-position-x: right;
 }
 .headIns h2 {
   color: white;
