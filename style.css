@@ -1,0 +1,166 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  font-size: 18px;
+  font-weight: 300;
+  color: rgb(245, 244, 244);
+  background-color: #0d1321;
+  line-height: 1.8;
+}
+
+img {
+  width: 30%;
+}
+
+.sec01 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.sec01Ldiv,
+.sec01Rdiv {
+  width: 50%;
+}
+
+.sec01Ldiv {
+  margin-left: 8%;
+}
+
+.sec01Ldiv h1 {
+  font-size: 60px;
+  color: #e9e9e9;
+  line-height: 1.2;
+  margin-left: 13px;
+}
+.fHeading {
+  display: flex;
+}
+
+.vrline {
+  border-left: 7px solid #32bf7f;
+  height: 116px;
+  margin-top: 14px;
+}
+
+span {
+  color: #f94e4e;
+}
+
+.shams {
+  width: 60%;
+  margin-left: 15%;
+  margin-top: 5%;
+}
+
+a {
+  text-decoration: none;
+  font-weight: 600;
+  color: white;
+  background: #32bf7f;
+  padding: 12px 40px;
+  margin: 20px 0;
+  display: inline-block;
+  border: none;
+  border-radius: 8px;
+}
+.headsec02 {
+  text-align: center;
+  margin-bottom: 35px;
+}
+
+.sec02 {
+  margin-top: 50px;
+  margin-bottom: 200px;
+}
+
+h2 {
+  font-size: 50px;
+  color: #afa0a0;
+}
+
+.misvisgoal {
+  display: flex;
+  justify-content: center;
+}
+
+.mis,
+.vis,
+.goa {
+  width: 20%;
+  color: #1f1f1f;
+}
+
+.mis {
+  background-color: #c5fcef;
+  margin-right: 30px;
+  margin-left: 100px;
+  padding: 25px 20px;
+  border-radius: 20px;
+}
+
+.vis {
+  background-color: #b6b6ff;
+  margin-right: 30px;
+  padding: 25px 20px;
+  border-radius: 20px;
+}
+
+.goa {
+  background-color: #ffef92;
+  margin-right: 100px;
+  padding: 25px 20px;
+  border-radius: 20px;
+}
+
+.mission {
+  font-weight: 900;
+  font-size: 20px;
+}
+.vision {
+  font-weight: 900;
+  font-size: 20px;
+}
+.goal {
+  font-weight: 900;
+  font-size: 20px;
+}
+
+.sec03,
+.sec04 {
+  display: flex;
+  margin: 0 100px 100px 100px;
+  align-items: center;
+  justify-content: center;
+  color: #c07cff;
+}
+
+.sec03Ldiv,
+.sec03Rdiv {
+  width: 48%;
+}
+
+#learning {
+  width: 70%;
+  border-radius: 20px;
+}
+
+h3 {
+  font-size: 35px;
+  color: #c07cff;
+}
+
+.sec04Ldiv,
+.sec04Rdiv {
+  width: 48%;
+}
+
+#webImg {
+  width: 70%;
+  border-radius: 20px;
+  margin-left: 25%;
+}
